@@ -9,7 +9,7 @@
 
 - individual API endpoint documentation
 - environment variable listings
-- verbose workflow steps 
+- a verbose workflow steps 
 
 the above where explicitly as they are already self-explained in the code
 
