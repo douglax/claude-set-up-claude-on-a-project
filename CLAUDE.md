@@ -1,7 +1,5 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
-
 A small Express REST API (users + health check) backed by an in-memory store, used as the starter project for a Claude Code course.
 
 ## Commands
